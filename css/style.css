@@ -1,4 +1,25 @@
+h1,
+h4,
+h2 {
+    text-align: center;
+}
+
+#main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
 #image{
     max-width: 100%;
     height: auto;
+}
+
+#timeline {
+    width: 800px;
+}
+
+li {
+    margin-bottom: 2rem;
 }
